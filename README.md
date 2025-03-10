@@ -1,4 +1,4 @@
-# DataForge: Data Analytics with Pandas
+# DataForge: Unlocking Customer Insights with Pandas
 
 ## 📌 Project Overview
 
